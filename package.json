@@ -1,0 +1,20 @@
+{
+  "name": "api-movies-guiado",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ospinajuanp/api-movies-guiado.git"
+  },
+  "author": "@ospinajuanp",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ospinajuanp/api-movies-guiado/issues"
+  },
+  "homepage": "https://github.com/ospinajuanp/api-movies-guiado#readme"
+}
