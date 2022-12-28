@@ -1,5 +1,5 @@
 const api = axios.create({
-    baseURL: 'https://api.themoviedb.org/3/',
+    baseURL: API_URL,
     headers: {
       'Content-Type': 'application/json;charset=utf-8',
     },
